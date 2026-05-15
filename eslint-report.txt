@@ -1,0 +1,11 @@
+
+C:\Users\999785\Documents\GitHub\test-smelly\.claude\worktrees\test-smells-refactor\test\userService.smelly.test.js
+  44:9  error    Avoid calling `expect` conditionally`  jest/no-conditional-expect
+  46:9  error    Avoid calling `expect` conditionally`  jest/no-conditional-expect
+  49:9  error    Avoid calling `expect` conditionally`  jest/no-conditional-expect
+  73:7  error    Avoid calling `expect` conditionally`  jest/no-conditional-expect
+  77:3  warning  Tests should not be skipped            jest/no-disabled-tests
+  77:3  warning  Test has no assertions                 jest/expect-expect
+
+✖ 6 problems (4 errors, 2 warnings)
+
